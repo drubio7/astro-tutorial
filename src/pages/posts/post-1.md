@@ -33,7 +33,7 @@ How profitable? The estimate is that the government will essentially forego some
 
 Malampaya is no ordinary gas venture. Per Shell, it supplies up to 40 percent of the power needs of Luzon or about 3.7 million homes. It’s considered the “backbone” of the country’s energy mix, accounting for 30 percent of total capacity.
 
-That’s why “This should shock our consciences, shock our nation,” lamented Rodis. “Why is the Philippine government allowing this theft of our resources, this theft of our future, to take place? … The question really is: If [Uy] was not a close friend and crony of President Duterte, would he have received the benefits of this incredibly one-sided contract?”
+That’s why “This should shock our consciences, shock our nation,” lamented Rodis. “Why is the Philippine government allowing this theft of our resources, this theft of our future, to take place? … The question really is: If Uy was not a close friend and crony of President Duterte, would he have received the benefits of this incredibly one-sided contract?”
 
 The Malampaya gas field falling into the hands of an “unqualified” company, Gatchalian added, will spell trouble for the economy considering its key role in the Philippines’ power needs.
 
