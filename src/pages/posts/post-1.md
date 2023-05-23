@@ -8,20 +8,36 @@ image:
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My First Blog Post
+# ‘Lutong macau’?
 
-Published on: 2022-07-01
+Published on: 2023-05-23
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+Concerned citizens filed last month with the Ombudsman a criminal complaint charging Energy Secretary Alfonso Cusi, billionaire Udenna Corp. CEO Dennis Uy, and other officials with graft for their role in what they deem as the questionable sale of the majority stake in the Malampaya deepwater gas-to-power project — ”the most incredible crony agreement” in history, they said.
 
-## What I've accomplished
+Geologist Balgamel Domingo and US-based Rodel Rodis and Loida Nicolas Lewis alleged in a 42-page complaint filed Oct. 18 that Cusi, as well as employees of the state-run Philippine National Oil Company-Exploration Corp. (PNOC-EC), had conspired with the officers of Udenna and sellers Chevron Malampaya LLC and Shell Philippines Exploration BV (SPEX) to give “unwarranted benefits, advantage or preference to Udenna and its subsidiary, UC Malampaya.”
 
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
+UC Malampaya — later renamed UC38 — bought for $565 million in November 2019 the 45-percent stake of Chevron Malampaya in the Malampaya natural gas field off northwest Palawan. The sale, which got the Department of Energy’s blessing, was followed up with the purchase for $460 million of the other 45 percent held by SPEX, bringing Udenna’s total stake to 90 percent, with state-run PNOC-EC holding the remaining 10 percent.
 
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
+The complaint’s main charge is that Cusi et al. “allowed or facilitated” the transfer to the Uy companies the rights and shares of Chevron “without ascertaining Udenna and UC Malampaya’s legal, technical and financial qualifications” to take over the latter’s obligations under the Malampaya contract.
+That view is shared by Sen. Sherwin Gatchalian, who has aired his own concerns over the financial capability of the Udenna group to keep the Malampaya field up and running, especially after one of Udenna’s subsidiaries recently suspended a hyped casino project in Clark due to debt and cash problems.
+“This is a red flag. Paano natin mapagkakatiwalaan ang kumpanyang lubog sa utang? First, the acquisition of Udenna Corp. unit of Chevron’s 45 percent stake in Malampaya was largely financed by loans. Now, Udenna wants to have the operating interests by acquiring Shell’s stake,” Gatchalian said.
 
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
+Another red flag noted was the speed at which negotiations over the extension of the Malampaya service contract — expiring in 2024 — picked up pace, just as gas field operator SPEX was finalizing the transfer of its interest to Udenna subsidiary Malampaya Energy XP Pte Ltd.
+“Hindi talaga maiaalis sa isip na baka magkaroon ng midnight deal dahil 2016 pa lang, gusto na itong i-renew ng Shell,” pointed out Gatchalian. “Ngayong pumasok sa eksena si Udenna, biglang bumilis ‘yung negotiations.”
 
-## What's next
+Davao-based businessman Dennis Uy, owner of the Udenna Group, is listed as one of Mr. Duterte’s top campaign contributors, and has been on a buying spree over the last five years.
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+According to the complainants, Cusi, who is ex-officio chair of PNOC-EC, could have challenged Uy’s bid for the Chevron stake, but chose not to despite the sure revenues from the operating field that should help fill government coffers severely depleted by COVID-19 response programs. “This very profitable opportunity was squandered due to not properly exercising the right of first refusal prior to the closing of the sale transaction,” they said.
+
+How profitable? The estimate is that the government will essentially forego some P42 billion a year in revenues from Malampaya due to the sale. This has prompted Gatchalian to brand the transaction as “lutong macau.”
+
+Malampaya is no ordinary gas venture. Per Shell, it supplies up to 40 percent of the power needs of Luzon or about 3.7 million homes. It’s considered the “backbone” of the country’s energy mix, accounting for 30 percent of total capacity.
+
+That’s why “This should shock our consciences, shock our nation,” lamented Rodis. “Why is the Philippine government allowing this theft of our resources, this theft of our future, to take place? … The question really is: If [Uy] was not a close friend and crony of President Duterte, would he have received the benefits of this incredibly one-sided contract?”
+
+The Malampaya gas field falling into the hands of an “unqualified” company, Gatchalian added, will spell trouble for the economy considering its key role in the Philippines’ power needs.
+
+Cusi, who chairs a faction of the divided ruling party, has characterized the charges as politically motivated
+(“I have no doubt the truth will vindicate me and the innocent people dragged into this purported action obviously filed for the singular purpose of political propaganda”) and has criticized Gatchalian’s statements as “misguided, lacking in factual and legal basis.”
+
+Are they? At this point, only a rigorous, transparent probe delving into the fine print of this mammoth transaction will assuage such questions. The Malampaya field is simply too important a national asset to be the subject of any suspect deal — and its seemingly convenient sale to a known associate of the President deserves the utmost scrutiny.
