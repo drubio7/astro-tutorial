@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource/special-elite": "^5.0.1",
+    "@fontsource/twinkle-star": "^5.0.1",
     "astro": "^2.4.1"
   }
 }
