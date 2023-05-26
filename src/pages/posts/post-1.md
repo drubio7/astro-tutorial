@@ -1,14 +1,15 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Lutong macau?'
-pubDate: 2023-05-23
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+title: Lutong macau?
+author: Astro
+description: "This is the first post of my new Astro blog."
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png' 
-    alt: 'The full Astro logo.'
+  url: "https://docs.astro.build/assets/full-logo-light.png"
+  alt: "The full Astro logo."
+pubDate: 2023-05-23
 tags: ["astro", "blogging", "learning in public"]
 ---
+
 Concerned citizens filed last month with the Ombudsman a criminal complaint charging Energy Secretary Alfonso Cusi, billionaire Udenna Corp. CEO Dennis Uy, and other officials with graft for their role in what they deem as the questionable sale of the majority stake in the Malampaya deepwater gas-to-power project — ”the most incredible crony agreement” in history, they said.
 
 Geologist Balgamel Domingo and US-based Rodel Rodis and Loida Nicolas Lewis alleged in a 42-page complaint filed Oct. 18 that Cusi, as well as employees of the state-run Philippine National Oil Company-Exploration Corp. (PNOC-EC), had conspired with the officers of Udenna and sellers Chevron Malampaya LLC and Shell Philippines Exploration BV (SPEX) to give “unwarranted benefits, advantage or preference to Udenna and its subsidiary, UC Malampaya.”
